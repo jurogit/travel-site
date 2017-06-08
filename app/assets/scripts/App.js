@@ -1,1 +1,1 @@
-App.js
+console.log("test");
