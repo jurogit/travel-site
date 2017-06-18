@@ -17,7 +17,7 @@ class RevealOnScroll {
 	}
 
 	createWaypoints() {
-		var that = this;
+		var that = this; // szo szerint: az egyenlo ez
 		this.itemsToReveal.each(function() {
 			var currentItem = this;
 			new Waypoint({
