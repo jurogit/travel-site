@@ -39,7 +39,7 @@
 			transform: translateX(0);
 
 			.site-header--dark & { /* target a logo element only when a dark modifier is used */
-				transform: scale(.66);
+				transform: scale(.65);
 			}
 		}
 	}
